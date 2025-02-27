@@ -1,0 +1,120 @@
+10 | Machine Learning | O'Reilly | Tom Mitchell | 9780070428072 | Central Library 10th Floor | Y
+5 | Database Systems | McGraw Hill | Ramakrishnan | 9780072465631 | Central Library 5th Floor | Y
+47 | Advanced Algorithms | Springer | Sanjoy Dasgupta | 9780073523408 | Central Library 47th Floor | N
+77 | International Finance | Wiley | Eun & Resnick | 9780077861607 | Central Library 77th Floor | N
+23 | Parallel Programming | Morgan Kaufmann | Peter Pacheco | 9780123742605 | Central Library 23rd Floor | N
+96 | Biomedical Engineering | Pearson | John Enderle | 9780123749797 | Central Library 96th Floor | N
+67 | Computer Architecture | Morgan Kaufmann | David Patterson | 9780124077263 | Central Library 67th Floor | N
+1 | C Programming | Pearson | Dennis Ritchie | 9780131103627 | Central Library 1st Floor | N
+25 | Artificial Neural Networks | Springer | Simon Haykin | 9780131293764 | Central Library 25th Floor | N
+30 | Agile Development | O'Reilly | Kent Beck | 9780131495050 | Central Library 30th Floor | N
+4 | Computer Networks | Pearson | Andrew Tanenbaum | 9780132126953 | Central Library 4th Floor | Y
+52 | Database Management | Pearson | Elmasri | 9780132145323 | Central Library 52nd Floor | Y
+66 | Digital Signal Processing | Wiley | Alan V. Oppenheim | 9780132146351 | Central Library 66th Floor | N
+101 | Structural Engineering | McGraw Hill | Mario Salvadori | 9780132808558 | Central Library 101st Floor | Y
+2 | Data Structures | McGraw Hill | Mark Weiss | 9780132847377 | Central Library 2nd Floor | N
+14 | Computer Graphics | Addison-Wesley | Hearn | 9780133694732 | Central Library 14th Floor | Y
+41 | Statistics | McGraw Hill | James McClave | 9780134080313 | Central Library 41st Floor | Y
+118 | Sociology | Pearson | John Macionis | 9780134255260 | Central Library 118th Floor | N
+24 | Network Security | Pearson | William Stallings | 9780134448622 | Central Library 24th Floor | Y
+85 | Organizational Behavior | Pearson | Stephen P. Robbins | 9780134523853 | Central Library 85th Floor | Y
+112 | Anatomy | Pearson | Marieb | 9780134610999 | Central Library 112th Floor | N
+110 | Earth Science | McGraw Hill | Tarbuck | 9780134678821 | Central Library 110th Floor | Y
+80 | Supply Chain Management | Pearson | Chopra | 9780134731884 | Central Library 80th Floor | Y
+45 | Electrical Engineering | Pearson | Hambley | 9780134813678 | Central Library 45th Floor | Y
+70 | Introduction to Computing | Pearson | Glenn Brookshear | 9780134875467 | Central Library 70th Floor | Y
+115 | Microbiology | Pearson | Gerard Tortora | 9780135176412 | Central Library 115th Floor | Y
+92 | AI for Business | Pearson | Alex Castrounis | 9780135265260 | Central Library 92nd Floor | N
+34 | Embedded Systems | Pearson | Marilyn Wolf | 9780136022120 | Central Library 34th Floor | N
+75 | AI and ML | MIT Press | Peter Norvig | 9780136042594 | Central Library 75th Floor | N
+11 | Artificial Intelligence | Pearson | Stuart Russell | 9780136042594 | Central Library 11th Floor | Y
+15 | Software Engineering | Addison-Wesley | Ian Sommerville | 9780137053469 | Central Library 15th Floor | Y
+90 | Critical Thinking | McGraw Hill | Richard Paul | 9780137085149 | Central Library 90th Floor | N
+58 | AI Ethics | Springer | Markus D. Dubber | 9780190084219 | Central Library 58th Floor | Y
+120 | Literature Studies | Oxford | James Wood | 9780195173404 | Central Library 120th Floor | Y
+22 | Compiler Design | Pearson | Alfred Aho | 9780201100884 | Central Library 22nd Floor | Y
+19 | Robotics | MIT Press | John Craig | 9780201543612 | Central Library 19th Floor | N
+27 | Software Architecture | Addison-Wesley | Mary Shaw | 9780201768026 | Central Library 27th Floor | Y
+54 | Object-Oriented Design | Addison-Wesley | Grady Booch | 9780201895514 | Central Library 54th Floor | Y
+79 | Behavioral Economics | MIT Press | Richard Thaler | 9780262028029 | Central Library 79th Floor | Y
+59 | Deep Learning | MIT Press | Ian Goodfellow | 9780262035614 | Central Library 59th Floor | N
+36 | Natural Language Processing | MIT Press | Jurafsky | 9780262037687 | Central Library 36th Floor | Y
+106 | Artificial Life | MIT Press | Christopher Langton | 9780262514348 | Central Library 106th Floor | N
+68 | Internet of Things | Apress | Samuel Greengard | 9780262533066 | Central Library 68th Floor | N
+48 | Lean Startup | Crown Business | Eric Ries | 9780307887894 | Central Library 48th Floor | Y
+26 | Human-Computer Interaction | Wiley | Alan Dix | 9780321537352 | Central Library 26th Floor | Y
+16 | Algorithms | Princeton | Robert Sedgewick | 9780321573513 | Central Library 16th Floor | Y
+28 | UX Design | Rosenfeld Media | Jesse James Garrett | 9780321683687 | Central Library 28th Floor | Y
+73 | Agile Practices | Wiley | Jim Highsmith | 9780321700413 | Central Library 73rd Floor | Y
+111 | Molecular Biology | Pearson | James Watson | 9780321768390 | Central Library 111th Floor | N
+97 | Biotechnology | Springer | David Clark | 9780321768468 | Central Library 97th Floor | Y
+65 | Probability | McGraw Hill | Sheldon Ross | 9780321794772 | Central Library 65th Floor | Y
+98 | Health Informatics | Wiley | Ramona Nelson | 9780323402253 | Central Library 98th Floor | Y
+94 | Cyber Law | Pearson | Jonathan Rosenoer | 9780387945305 | Central Library 94th Floor | Y
+57 | User Interface Design | Wiley | Wilbert Galitz | 9780470233991 | Central Library 57th Floor | Y
+74 | Software Deployment | Springer | George Omura | 9780470390301 | Central Library 74th Floor | Y
+42 | Business Intelligence | Wiley | Carlo Vercellis | 9780470511397 | Central Library 42nd Floor | Y
+13 | Cloud Computing | Wiley | Barrie Sosinsky | 9780470887998 | Central Library 13th Floor | Y
+60 | Neural Networks | Wiley | Simon Haykin | 9780471780927 | Central Library 60th Floor | Y
+91 | Emotional Intelligence | Bloomsbury | Daniel Goleman | 9780553383713 | Central Library 91st Floor | Y
+6 | Java Programming | Addison-Wesley | Kathy Sierra | 9780596009205 | Central Library 6th Floor | Y
+53 | Web Technologies | O'Reilly | Danny Goodman | 9780596101992 | Central Library 53rd Floor | Y
+88 | Personal Development | Crown Publishing | Stephen Covey | 9780671708634 | Central Library 88th Floor | Y
+87 | Public Speaking | Wiley | Dale Carnegie | 9780671894406 | Central Library 87th Floor | Y
+89 | Communication Skills | Pearson | Dale Carnegie | 9780671894486 | Central Library 89th Floor | Y
+99 | Environmental Science | Pearson | Daniel D. Chiras | 9780763742621 | Central Library 99th Floor | N
+84 | Leadership Principles | McGraw Hill | John Maxwell | 9780785260752 | Central Library 84th Floor | Y
+114 | Genomics | Wiley | Bruce Alberts | 9780815345282 | Central Library 114th Floor | Y
+43 | Design Thinking | Pearson | Nigel Cross | 9780857859244 | Central Library 43rd Floor | Y
+64 | Linear Algebra | Pearson | Gilbert Strang | 9780980232776 | Central Library 64th Floor | Y
+31 | Functional Programming | Addison-Wesley | Martin Odersky | 9780981531649 | Central Library 31st Floor | Y
+39 | Virtual Reality | CRC Press | Steven LaValle | 9781107003157 | Central Library 39th Floor | Y
+116 | Climate Change | Wiley | Mike Hulme | 9781107008466 | Central Library 116th Floor | Y
+29 | Quantum Computing | MIT Press | Michael Nielsen | 9781107012173 | Central Library 29th Floor | Y
+100 | Renewable Energy | MIT Press | Mark Jacobson | 9781107013385 | Central Library 100th Floor | N
+40 | Ethical Hacking | Wiley | Georgia Weidman | 9781118026475 | Central Library 40th Floor | Y
+46 | Digital Electronics | Wiley | Anil Maini | 9781118074828 | Central Library 46th Floor | Y
+20 | Big Data Analytics | Wiley | Michael Minelli | 9781118147603 | Central Library 20th Floor | Y
+104 | Material Science | Wiley | William Callister | 9781118324578 | Central Library 104th Floor | Y
+105 | Transportation Engineering | McGraw Hill | Clifford Bonham | 9781118349502 | Central Library 105th Floor | Y
+102 | Mechanical Engineering | Pearson | John Wickert | 9781118802589 | Central Library 102nd Floor | Y
+63 | MATLAB Programming | MathWorks | Amos Gilat | 9781118808375 | Central Library 63rd Floor | Y
+9 | Web Development | Wrox | Jon Duckett | 9781118871645 | Central Library 9th Floor | Y
+49 | Software Testing | Addison-Wesley | Glenford Myers | 9781119317201 | Central Library 49th Floor | Y
+51 | Operating Systems Concepts | Wiley | Avi Silberschatz | 9781119437822 | Central Library 51st Floor | Y
+82 | Financial Accounting | Wiley | Jerry Weygandt | 9781119502807 | Central Library 82nd Floor | Y
+37 | Cryptography | Wiley | Bruce Schneier | 9781119642767 | Central Library 37th Floor | Y
+95 | Space Exploration | Wiley | David Baker | 9781119648120 | Central Library 95th Floor | Y
+35 | Cybersecurity | Wiley | Peter Gregory | 9781119759762 | Central Library 35th Floor | Y
+3 | Operating Systems | Wiley | Silberschatz | 9781119805129 | Central Library 3rd Floor | Y
+71 | Logic Design | Wiley | Charles Roth | 9781133628473 | Central Library 71st Floor | Y
+69 | IT Security | Wiley | Michael E. Whitman | 9781138583623 | Central Library 69th Floor | Y
+81 | Corporate Finance | McGraw Hill | Ross | 9781259722615 | Central Library 81st Floor | Y
+86 | Real Estate Finance | Springer | William Brueggeman | 9781260575085 | Central Library 86th Floor | Y
+55 | IT Project Management | McGraw Hill | Kathy Schwalbe | 9781285452340 | Central Library 55th Floor | Y
+119 | Psychology | Wiley | David Myers | 9781319035342 | Central Library 119th Floor | Y
+109 | Oceanography | Pearson | Tom Garrison | 9781337559746 | Central Library 109th Floor | Y
+8 | Android Development | Apress | Chris Haseman | 9781430232224 | Central Library 8th Floor | Y
+56 | Software Metrics | Pearson | Norman Fenton | 9781439838254 | Central Library 56th Floor | Y
+21 | System Design | Wiley | Bill Wilder | 9781449314637 | Central Library 21st Floor | Y
+7 | Python Programming | O'Reilly | Mark Lutz | 9781449355739 | Central Library 7th Floor | Y
+72 | Cloud Architecture | Addison-Wesley | Tom Laszewski | 9781484221044 | Central Library 72nd Floor | Y
+12 | Blockchain Basics | Apress | Daniel Drescher | 9781484226032 | Central Library 12th Floor | Y
+44 | Mobile Application Development | Addison-Wesley | John Horton | 9781484238578 | Central Library 44th Floor | Y
+17 | Data Science | O'Reilly | Jake Vanderplas | 9781491912058 | Central Library 17th Floor | Y
+61 | Advanced Python | O'Reilly | Luciano Ramalho | 9781492056355 | Central Library 61st Floor | Y
+117 | Anthropology | Springer | Michael Angrosino | 9781577666506 | Central Library 117th Floor | Y
+32 | Game Development | Apress | David Perry | 9781598633010 | Central Library 32nd Floor | Y
+113 | Neuroscience | Sinauer Associates | Dale Purves | 9781605357396 | Central Library 113th Floor | Y
+83 | Business Strategy | Pearson | Clayton Christensen | 9781633697100 | Central Library 83rd Floor | Y
+93 | Blockchain Applications | Springer | Imran Bashir | 9781839218342 | Central Library 93rd Floor | Y
+33 | Computer Vision | Springer | Richard Szeliski | 9781848829343 | Central Library 33rd Floor | Y
+50 | Artificial General Intelligence | Springer | Ben Goertzel | 9783030239215 | Central Library 50th Floor | Y
+78 | Marketing Analytics | Springer | Stephan Sorger | 9783319276249 | Central Library 78th Floor | Y
+108 | Space Robotics | Springer | John Craig | 9783319287983 | Central Library 108th Floor | Y
+62 | R Programming | Springer | Hadley Wickham | 9783319524401 | Central Library 62nd Floor | Y
+18 | IoT Development | Springer | Shancang Li | 9783319697158 | Central Library 18th Floor | Y
+103 | Civil Engineering | Springer | Klaus Holschemacher | 9783319926045 | Central Library 103rd Floor | Y
+38 | Augmented Reality | Springer | Dieter Schmalstieg | 9783319926920 | Central Library 38th Floor | Y
+121 | programinghi | soong | parkkim | 9785435728436 | soongsill | N
+76 | Principles of Economics | Pearson | Gregory Mankiw | 9788131731043 | Central Library 76th Floor | Y
